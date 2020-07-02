@@ -12,6 +12,6 @@ class circle{
         }
 }
 
-let cicle1 = new circle(10, 10, 2);
-let surface1 = circle1.surface();
+let circle1 = new circle(10, 10, 2);
+let surface1 = circle1.surface;
 console.log(surface1);
